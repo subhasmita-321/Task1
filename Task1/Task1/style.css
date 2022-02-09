@@ -1,0 +1,41 @@
+h1 {
+  margin-left: 25px;
+  margin-top: 25px;
+  color: black;
+  font-size: 60px;
+  font-style: oblique;
+}
+
+table,
+th,
+td {
+  border: 6px solid white;
+  border-collapse: collapse;
+  padding: 10px;
+}
+
+th,
+td {
+  background-color: #96d4d4;
+}
+
+form.box input[type="text"] {
+  padding: 10px;
+  float: right;
+}
+
+form.box button[type="submit"] {
+  padding: 10px;
+  float: right;
+}
+
+.card-deck {
+  padding: 100px;
+  width: 1200px;
+  text-align: center;
+}
+
+.container {
+  float: left;
+  margin-top: 2spx;
+}
